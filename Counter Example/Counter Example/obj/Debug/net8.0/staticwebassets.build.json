@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "Hash": "uOH0tQMCmN4BYaM2nngl2usmrLaQSmxVya6a5/lvzzU=",
+  "Source": "Counter Example",
+  "BasePath": "_content/Counter Example",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Counter Example\\wwwroot",
+      "Source": "Counter Example",
+      "ContentRoot": "C:\\Users\\Paridhi\\source\\repos\\Counter Example\\Counter Example\\wwwroot\\",
+      "BasePath": "_content/Counter Example",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Paridhi\\source\\repos\\Counter Example\\Counter Example\\wwwroot\\index.html",
+      "SourceId": "Counter Example",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Paridhi\\source\\repos\\Counter Example\\Counter Example\\wwwroot\\",
+      "BasePath": "_content/Counter Example",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rn11lob2y4",
+      "Integrity": "WXyBSrMN+aaFmtqw1zSxPLEKTLkPZiYLjt3Q4RD+LLA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Paridhi\\source\\repos\\Counter Example\\Counter Example\\wwwroot\\logs\\ButtonClickLogs.csv",
+      "SourceId": "Counter Example",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Paridhi\\source\\repos\\Counter Example\\Counter Example\\wwwroot\\",
+      "BasePath": "_content/Counter Example",
+      "RelativePath": "logs/ButtonClickLogs#[.{fingerprint}]?.csv",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logs\\ButtonClickLogs.csv"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Paridhi\\source\\repos\\Counter Example\\Counter Example\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4401"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WXyBSrMN+aaFmtqw1zSxPLEKTLkPZiYLjt3Q4RD+LLA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Feb 2025 18:52:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WXyBSrMN+aaFmtqw1zSxPLEKTLkPZiYLjt3Q4RD+LLA="
+        }
+      ]
+    },
+    {
+      "Route": "index.rn11lob2y4.html",
+      "AssetFile": "C:\\Users\\Paridhi\\source\\repos\\Counter Example\\Counter Example\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4401"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WXyBSrMN+aaFmtqw1zSxPLEKTLkPZiYLjt3Q4RD+LLA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Feb 2025 18:52:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rn11lob2y4"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WXyBSrMN+aaFmtqw1zSxPLEKTLkPZiYLjt3Q4RD+LLA="
+        }
+      ]
+    },
+    {
+      "Route": "logs/ButtonClickLogs.5ipweew5fc.csv",
+      "AssetFile": "C:\\Users\\Paridhi\\source\\repos\\Counter Example\\Counter Example\\wwwroot\\logs\\ButtonClickLogs.csv",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/csv"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 18:44:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "logs/ButtonClickLogs.csv"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "logs/ButtonClickLogs.csv",
+      "AssetFile": "C:\\Users\\Paridhi\\source\\repos\\Counter Example\\Counter Example\\wwwroot\\logs\\ButtonClickLogs.csv",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/csv"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 18:44:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    }
+  ]
+}
